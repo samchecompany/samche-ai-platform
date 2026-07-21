@@ -4,6 +4,16 @@
 
 <br>
 
+<p align="center">
+
+![AI](https://img.shields.io/badge/AI-Enterprise-red?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-Powered-black?style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-AI-25D366?style=for-the-badge)
+![CRM](https://img.shields.io/badge/CRM-Integration-blue?style=for-the-badge)
+![Dubai](https://img.shields.io/badge/Dubai-UAE-red?style=for-the-badge)
+
+</p>
+
 # SamChe AI Platform
 
 Enterprise AI solutions developed by **SamChe Company LLC** to help businesses automate customer communication, streamline operations, and accelerate growth.
