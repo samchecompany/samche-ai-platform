@@ -71,6 +71,72 @@ Whether your business operates in **real estate, healthcare, hospitality, retail
 - Contact
 
 ## Core Solutions
+---
+
+# ✨ Platform Features
+
+| Feature | Description |
+|----------|-------------|
+| 🤖 AI Chatbot | GPT-powered customer communication |
+| 💬 WhatsApp AI | 24/7 intelligent WhatsApp assistant |
+| 🌐 Website Chat | AI-powered website conversations |
+| 📄 Document AI | Reads PDFs and company documents |
+| 🎤 Voice AI | Voice message understanding |
+| 🌍 Multi-language | English • Türkçe • العربية |
+| 📅 Booking System | AI appointment scheduling |
+| 👥 Lead Qualification | Smart customer qualification |
+| 📊 Analytics | Customer insights & reporting |
+| 🔗 CRM Integration | Connect with your CRM |
+| ⚙️ Workflow Automation | Business process automation |
+| 🔒 Enterprise Security | Secure cloud infrastructure |
+
+---
+
+# 🛠 Technology Stack
+
+The SamChe AI Platform is designed with modern AI and cloud technologies.
+
+### Artificial Intelligence
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Knowledge Base
+
+### Integrations
+
+- WhatsApp Business
+- Website Chat Widgets
+- CRM Systems
+- Booking Systems
+- REST APIs
+
+### Infrastructure
+
+- Cloud Deployment
+- Secure API Architecture
+- Scalable Services
+- Business Automation
+
+---
+
+# 🗺 Roadmap
+
+## Current
+
+- ✅ AI Chatbot
+- ✅ WhatsApp AI
+- ✅ Website Chat
+- ✅ CRM Integration
+
+## Upcoming
+
+- AI Voice Assistant
+- Mobile Dashboard
+- AI Sales Agent
+- AI Analytics
+- Additional CRM Connectors
+- Advanced Workflow Automation
 
 ### 🤖 AI Website Chatbot
 
@@ -99,3 +165,25 @@ Automated booking system integrated with AI conversations to schedule meetings a
 ### 📊 Business Automation
 
 Workflow automation designed to reduce repetitive tasks while increasing operational efficiency.
+
+---
+
+# 📞 Contact
+
+**SamChe Company LLC**
+
+🌍 Website  
+https://samchecompany.com
+
+📧 Email  
+business@samchecompany.com
+
+📍 Location  
+Dubai, United Arab Emirates
+
+LinkedIn  
+https://www.linkedin.com/company/samche-company-llc
+
+---
+
+© 2026 SamChe Company LLC. All rights reserved.
