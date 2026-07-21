@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="SamChe AI Platform Banner" width="100%">
+</p>
+
+<br>
+
 # SamChe AI Platform
 
 Enterprise AI solutions developed by **SamChe Company LLC** to help businesses automate customer communication, streamline operations, and accelerate growth.
