@@ -1,222 +1,265 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="SamChe AI Platform Banner" width="100%">
+```
+`<img src="./assets/banner.png" alt="SamChe AI Platform Banner" width="100%">`{=html}
+```{=html}
 </p>
-
-<br>
-
+```
+```{=html}
 <p align="center">
-
+```
 ![AI](https://img.shields.io/badge/AI-Enterprise-red?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Powered-black?style=for-the-badge)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-AI-25D366?style=for-the-badge)
 ![CRM](https://img.shields.io/badge/CRM-Integration-blue?style=for-the-badge)
 ![Dubai](https://img.shields.io/badge/Dubai-UAE-red?style=for-the-badge)
 
+```{=html}
 </p>
-
+```
 # 🚀 SamChe AI Platform
 
-Enterprise-grade Artificial Intelligence solutions developed by **SamChe Company LLC** for businesses seeking intelligent automation, enhanced customer engagement, and scalable digital transformation.
+Enterprise AI platform developed by **SamChe Company LLC** to automate
+customer engagement, business workflows, and digital operations.
 
----
+------------------------------------------------------------------------
 
-## Transforming Businesses with AI
+## 📊 Platform Preview
 
-The **SamChe AI Platform** is a modular AI ecosystem that empowers companies to automate customer communication, optimize business workflows, and provide intelligent 24/7 support across multiple digital channels.
-
-Designed for organizations of all sizes, our platform integrates conversational AI, business automation, CRM connectivity, multilingual communication, knowledge management, and operational intelligence into one centralized solution.
-
-Whether your business operates in **real estate, healthcare, hospitality, retail, legal services, or company formation**, the SamChe AI Platform adapts to your workflows with enterprise-level flexibility.
-
+```{=html}
 <p align="center">
-  <img src="./assets/screenshots/dashboard.png" alt="SamChe AI Dashboard" width="100%">
+```
+`<img src="./assets/screenshots/dashboard.png" width="100%">`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## Why Choose SamChe AI?
+## 📑 Table of Contents
 
-✔ Enterprise-grade AI architecture
+-   About
+-   Why SamChe AI
+-   Core Solutions
+-   Platform Features
+-   Technology Stack
+-   Architecture
+-   Documentation
+-   Roadmap
+-   Contact
 
-✔ Designed for business automation
+------------------------------------------------------------------------
 
-✔ GPT-powered conversational intelligence
+# About
 
-✔ Multi-language support (English • Türkçe • العربية)
+The SamChe AI Platform is an enterprise-ready ecosystem combining AI
+chatbots, WhatsApp automation, CRM connectivity, multilingual support,
+knowledge management, workflow automation, analytics, and intelligent
+customer engagement.
 
-✔ CRM & ERP integrations
+------------------------------------------------------------------------
 
-✔ WhatsApp AI Assistant
+# Why SamChe AI?
 
-✔ Website AI Chatbot
+-   Enterprise-grade AI
+-   GPT-powered conversations
+-   CRM integrations
+-   WhatsApp AI
+-   Website AI Chatbot
+-   Business Automation
+-   Multi-language (EN • TR • AR)
+-   Secure & scalable
 
-✔ Appointment automation
+------------------------------------------------------------------------
 
-✔ Lead qualification
+# Core Solutions
 
-✔ Knowledge Base AI
+## 🤖 AI Website Chatbot
 
-✔ Secure cloud infrastructure
+Modern AI assistant for websites.
 
-✔ Scalable for startups and enterprises
+```{=html}
+<p align="center">
+```
+`<img src="./assets/screenshots/website-chat.png" width="100%">`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## Table of Contents
+## 💬 WhatsApp AI Assistant
 
-- About
-- Core Solutions
-- Features
-- Industries
-- Technology
-- Security
-- Documentation
-- Roadmap
-- Contact
+Automated AI conversations for WhatsApp.
 
-## Core Solutions
----
+```{=html}
+<p align="center">
+```
+`<img src="./assets/screenshots/whatsapp-ai.png" width="100%">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🧠 AI Knowledge Base
+
+Centralized knowledge retrieval for AI responses.
+
+## 📅 Smart Appointment System
+
+AI-powered scheduling and booking.
+
+## ⚙️ Business Automation
+
+Automate repetitive business processes.
+
+```{=html}
+<p align="center">
+```
+`<img src="./assets/screenshots/workflow.png" width="100%">`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
 
 # ✨ Platform Features
 
-| Feature | Description |
-|----------|-------------|
-| 🤖 AI Chatbot | GPT-powered customer communication |
-| 💬 WhatsApp AI | 24/7 intelligent WhatsApp assistant |
-| 🌐 Website Chat | AI-powered website conversations |
-| 📄 Document AI | Reads PDFs and company documents |
-| 🎤 Voice AI | Voice message understanding |
-| 🌍 Multi-language | English • Türkçe • العربية |
-| 📅 Booking System | AI appointment scheduling |
-| 👥 Lead Qualification | Smart customer qualification |
-| 📊 Analytics | Customer insights & reporting |
-| 🔗 CRM Integration | Connect with your CRM |
-| ⚙️ Workflow Automation | Business process automation |
-| 🔒 Enterprise Security | Secure cloud infrastructure |
+  Feature          Description
+  ---------------- ---------------------------
+  AI Chatbot       Intelligent conversations
+  WhatsApp AI      24/7 automation
+  CRM              Customer management
+  Analytics        Business insights
+  Workflow         Process automation
+  Voice AI         Voice understanding
+  Knowledge Base   Company-specific AI
+  Multi-language   EN / TR / AR
 
----
+------------------------------------------------------------------------
+
+# 🤝 CRM Integration
+
+```{=html}
+<p align="center">
+```
+`<img src="./assets/screenshots/crm.png" width="100%">`{=html}
+```{=html}
+</p>
+```
+Integrates with CRM systems to manage leads, customers and sales
+pipelines.
+
+------------------------------------------------------------------------
 
 # 🛠 Technology Stack
 
-The SamChe AI Platform is designed with modern AI and cloud technologies.
+-   Large Language Models (LLMs)
+-   Retrieval-Augmented Generation (RAG)
+-   Prompt Engineering
+-   REST APIs
+-   CRM Integration
+-   WhatsApp Business
+-   Cloud Infrastructure
+-   Secure Authentication
 
-## 📸 Platform Preview
+------------------------------------------------------------------------
 
-Dashboard
+# 🏗 Platform Architecture
 
-WhatsApp AI
+The platform follows a modular architecture designed for enterprise
+deployment.
 
-Website Chat
+```{=html}
+<p align="center">
+```
+`<img src="./assets/screenshots/architecture.png" width="100%">`{=html}
+```{=html}
+</p>
+```
 
-Analytics
+------------------------------------------------------------------------
 
-### Artificial Intelligence
+# 📁 Repository Structure
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Knowledge Base
+``` text
+samche-ai-platform
+├── README.md
+├── assets
+│   ├── banner.png
+│   └── screenshots
+├── docs
+│   ├── architecture.md
+│   ├── features.md
+│   ├── integrations.md
+│   ├── security.md
+│   ├── faq.md
+│   ├── deployment.md
+│   ├── api.md
+│   └── roadmap.md
+└── LICENSE
+```
 
-### Integrations
+------------------------------------------------------------------------
 
-- WhatsApp Business
-- Website Chat Widgets
-- CRM Systems
-- Booking Systems
-- REST APIs
+# 📚 Documentation
 
-### Infrastructure
+-   Architecture
+-   Features
+-   Integrations
+-   Security
+-   FAQ
+-   Deployment
+-   API
+-   Roadmap
 
-- Cloud Deployment
-- Secure API Architecture
-- Scalable Services
-- Business Automation
+------------------------------------------------------------------------
 
----
+# 🔒 Security
 
-## 🏗 Platform Architecture
+-   Encryption in transit
+-   Role-based access
+-   Secure cloud deployment
+-   Enterprise architecture
 
-SamChe AI Platform is built around modular AI services.
-
-AI Engine
-        ↓
-Knowledge Base
-        ↓
-WhatsApp
-Website Chat
-Voice AI
-CRM
-Booking
-Analytics
+------------------------------------------------------------------------
 
 # 🗺 Roadmap
 
 ## Current
 
-- ✅ AI Chatbot
-- ✅ WhatsApp AI
-- ✅ Website Chat
-- ✅ CRM Integration
+-   AI Chatbot
+-   WhatsApp AI
+-   Website Chat
+-   CRM Integration
 
-## Upcoming
+## Planned
 
-- AI Voice Assistant
-- Mobile Dashboard
-- AI Sales Agent
-- AI Analytics
-- Additional CRM Connectors
-- Advanced Workflow Automation
+-   Voice AI
+-   AI Sales Agent
+-   Mobile Dashboard
+-   AI Analytics
+-   Additional integrations
 
-### 🤖 AI Website Chatbot
-
-An intelligent virtual assistant capable of understanding customer requests, answering questions, qualifying leads, and providing real-time support.
-
-<p align="center">
-  <img src="./assets/screenshots/website-chat.png" alt="Website AI Chatbot" width="100%">
-</p>
-
----
-
-### 💬 WhatsApp AI Assistant
-
-A fully automated AI assistant for WhatsApp capable of handling customer inquiries, booking appointments, reading documents, processing voice messages, and generating sales opportunities.
-
----
-
-### 🧠 AI Knowledge Base
-
-Centralized knowledge management enabling AI to answer company-specific questions using internal documentation, FAQs, and business data.
-
----
-
-### 📅 Smart Appointment System
-
-Automated booking system integrated with AI conversations to schedule meetings and consultations without manual intervention.
-
----
-
-### 📊 Business Automation
-
-Workflow automation designed to reduce repetitive tasks while increasing operational efficiency.
-
----
+------------------------------------------------------------------------
 
 # 📞 Contact
 
 **SamChe Company LLC**
 
-🌍 Website  
-https://samchecompany.com
+Website: https://samchecompany.com
 
-📧 Email  
-business@samchecompany.com
+Email: business@samchecompany.com
 
-📍 Location  
-Dubai, United Arab Emirates
+Location: Dubai, UAE
 
-LinkedIn  
-https://www.linkedin.com/company/samche-company-llc
+LinkedIn: https://linkedin.com/company/samche-company-llc
 
----
+------------------------------------------------------------------------
 
-© 2026 SamChe Company LLC. All rights reserved.
+# 📄 License
+
+Copyright © SamChe Company LLC.
+
+All Rights Reserved. Commercial use, redistribution, or modification
+requires prior written permission from SamChe Company LLC.
