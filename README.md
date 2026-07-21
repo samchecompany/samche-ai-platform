@@ -171,6 +171,10 @@ Analytics
 
 An intelligent virtual assistant capable of understanding customer requests, answering questions, qualifying leads, and providing real-time support.
 
+<p align="center">
+  <img src="./assets/screenshots/website-chat.png" alt="Website AI Chatbot" width="100%">
+</p>
+
 ---
 
 ### 💬 WhatsApp AI Assistant
