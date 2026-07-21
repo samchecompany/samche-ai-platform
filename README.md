@@ -96,6 +96,16 @@ Whether your business operates in **real estate, healthcare, hospitality, retail
 
 The SamChe AI Platform is designed with modern AI and cloud technologies.
 
+## 📸 Platform Preview
+
+Dashboard
+
+WhatsApp AI
+
+Website Chat
+
+Analytics
+
 ### Artificial Intelligence
 
 - Large Language Models (LLMs)
@@ -119,6 +129,21 @@ The SamChe AI Platform is designed with modern AI and cloud technologies.
 - Business Automation
 
 ---
+
+## 🏗 Platform Architecture
+
+SamChe AI Platform is built around modular AI services.
+
+AI Engine
+        ↓
+Knowledge Base
+        ↓
+WhatsApp
+Website Chat
+Voice AI
+CRM
+Booking
+Analytics
 
 # 🗺 Roadmap
 
