@@ -28,6 +28,10 @@ Designed for organizations of all sizes, our platform integrates conversational 
 
 Whether your business operates in **real estate, healthcare, hospitality, retail, legal services, or company formation**, the SamChe AI Platform adapts to your workflows with enterprise-level flexibility.
 
+<p align="center">
+  <img src="./assets/screenshots/dashboard.png" alt="SamChe AI Dashboard" width="100%">
+</p>
+
 ---
 
 ## Why Choose SamChe AI?
