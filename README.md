@@ -4,14 +4,19 @@
 
 <p align="center">
 
-![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-0F172A?style=for-the-badge)
-![Business Automation](https://img.shields.io/badge/Business-Automation-C62828?style=for-the-badge)
-![WhatsApp AI](https://img.shields.io/badge/WhatsApp-AI-16A34A?style=for-the-badge)
-![Website AI](https://img.shields.io/badge/Website-AI-2563EB?style=for-the-badge)
-![CRM Integration](https://img.shields.io/badge/CRM-Integration-7C3AED?style=for-the-badge)
-![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-D97706?style=for-the-badge)
-![Knowledge Base](https://img.shields.io/badge/Knowledge-Base-0EA5E9?style=for-the-badge)
-![Dubai UAE](https://img.shields.io/badge/Dubai-UAE-DC2626?style=for-the-badge)
+![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-1F2937?style=for-the-badge)
+
+![Business Automation](https://img.shields.io/badge/Business-Automation-B91C1C?style=for-the-badge)
+
+![Customer Engagement](https://img.shields.io/badge/Customer-Engagement-0F766E?style=for-the-badge)
+
+![CRM Integration](https://img.shields.io/badge/CRM-Integration-4F46E5?style=for-the-badge)
+
+![Knowledge Intelligence](https://img.shields.io/badge/Knowledge-Intelligence-0369A1?style=for-the-badge)
+
+![Dubai](https://img.shields.io/badge/Dubai-374151?style=for-the-badge)
+
+![United Arab Emirates](https://img.shields.io/badge/United%20Arab%20Emirates-DC2626?style=for-the-badge)
 
 </p>
 
