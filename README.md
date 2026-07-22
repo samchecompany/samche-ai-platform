@@ -2,20 +2,53 @@
 <img src="./assets/banner.png" width="100%">
 </p>
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
 
 ![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-1F2937?style=for-the-badge)
+
+</td>
+
+<td>
+
 ![Business Automation](https://img.shields.io/badge/Business-Automation-B91C1C?style=for-the-badge)
+
+</td>
+
+<td>
+
 ![Customer Experience](https://img.shields.io/badge/Customer-Experience-0F766E?style=for-the-badge)
 
-<br><br>
+</td>
+</tr>
+
+<tr>
+<td>
 
 ![CRM Integration](https://img.shields.io/badge/CRM-Integration-4F46E5?style=for-the-badge)
+
+</td>
+
+<td>
+
 ![Knowledge Intelligence](https://img.shields.io/badge/Knowledge-Intelligence-0369A1?style=for-the-badge)
+
+</td>
+
+<td>
+
 ![UAE Business Solutions](https://img.shields.io/badge/UAE-Business%20Solutions-D97706?style=for-the-badge)
+
+</td>
+
+<td>
+
 ![Dubai](https://img.shields.io/badge/Dubai-374151?style=for-the-badge)
 
-</p>
+</td>
+</tr>
+</table>
 
 
 
