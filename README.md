@@ -820,7 +820,7 @@ business@samchecompany.com
 
 Enterprise Artificial Intelligence for Modern Businesses
 
-Developed with ❤️ by **SamChe Company LLC**
+Developed with by **SamChe Company LLC**
 
 Dubai • United Arab Emirates
 
