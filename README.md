@@ -274,35 +274,6 @@ The SamChe AI Platform can be adapted to multiple industries.
 
 ---
 
-# 📁 Repository Structure
-
-```text
-samche-ai-platform
-│
-├── README.md
-├── LICENSE
-├── assets
-│   ├── banner.png
-│   └── screenshots
-│       ├── dashboard.png
-│       ├── website-chat.png
-│       ├── whatsapp-ai.png
-│       ├── workflow.png
-│       ├── crm.png
-│       └── architecture.png
-│
-├── docs
-│   ├── architecture.md
-│   ├── features.md
-│   ├── integrations.md
-│   ├── security.md
-│   ├── faq.md
-│   ├── deployment.md
-│   ├── api.md
-│   └── roadmap.md
-│
-└── CHANGELOG.md
-```
 
 ---
 
