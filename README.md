@@ -9,7 +9,6 @@
 ![CRM Integration](https://img.shields.io/badge/CRM%20Integration-4F46E5?style=for-the-badge)
 ![Knowledge AI](https://img.shields.io/badge/Knowledge%20AI-0369A1?style=for-the-badge)
 ![UAE Business Solutions](https://img.shields.io/badge/UAE%20Business%20Solutions-D97706?style=for-the-badge)
-![Dubai](https://img.shields.io/badge/Dubai-374151?style=for-the-badge)
 
 </p>
 
