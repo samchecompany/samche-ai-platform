@@ -1,22 +1,21 @@
 <p align="center">
+<img src="./assets/banner.png" width="100%">
+</p>
+
+<p align="center">
 
 ![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-0F172A?style=for-the-badge)
-
 ![Business Automation](https://img.shields.io/badge/Business-Automation-C62828?style=for-the-badge)
-
 ![WhatsApp AI](https://img.shields.io/badge/WhatsApp-AI-16A34A?style=for-the-badge)
-
 ![Website AI](https://img.shields.io/badge/Website-AI-2563EB?style=for-the-badge)
-
 ![CRM Integration](https://img.shields.io/badge/CRM-Integration-7C3AED?style=for-the-badge)
-
 ![Workflow Automation](https://img.shields.io/badge/Workflow-Automation-D97706?style=for-the-badge)
-
 ![Knowledge Base](https://img.shields.io/badge/Knowledge-Base-0EA5E9?style=for-the-badge)
-
 ![Dubai UAE](https://img.shields.io/badge/Dubai-UAE-DC2626?style=for-the-badge)
 
 </p>
+
+
 
 # SamChe AI Platform
 
